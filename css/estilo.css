@@ -1,0 +1,84 @@
+<style>
+header {width:1300px;
+    height:210px;
+    background:lightblue; margin: 5px; border: 8px solid pink;}
+         body{background-color: grey} 
+
+#logotipo{width:160px;
+    height:125px;
+    background:lightblue; margin: 5px; border: 8px solid yellow;
+    padding: 50px white;} 
+ 
+
+*{	margin:0;
+	padding:0;
+	list-style:none;  	}
+
+header{ 	position:relative;
+	margin:10px auto;
+	width:1320px;
+	height:200px;
+	background:violet; 	}
+
+#logo{	position:absolute;
+	top:30px;
+	left:500px;
+	width:200px;
+	height:300px; 
+		 	}
+             .redes{
+                position:absolute;
+                width:60px;
+                height:60px;
+                background:aqua;
+                border-radius:100%;	}
+            
+            #icono1{
+                top:60px;
+                right:90px;
+            
+                }
+                
+            #icono2{
+                top:60px;
+                right:19px;
+                }
+            
+            
+            nav{ 	position:relative;
+                margin: auto;
+                width:1320px;
+                height:48px;
+                background:violet;	}
+            
+            .botones{	float:left;
+                width:430px;
+                margin:4px 5px;
+                height:40px;
+                background:aqua;	}
+            
+            
+            section{ 	position:relative;
+                margin:10px auto;
+                width:1320px;
+                height:500px;
+                background:violet; 	}
+            
+            footer{ 	position:relative;
+                margin:auto;
+                width:1320px;
+                height:70px;
+                background:violet;	}
+            
+            {background:#FF0000 }
+            
+                    
+            /* selector puede ser el nombre de la etiqueta o el ID de la etiqueta */
+            
+            body{ background:lightblue; }
+            
+                
+                
+            
+            </style>
+            
